@@ -71,7 +71,13 @@ The complete ankle mechanism was designed and assembled in CAD, including the in
 
 <p align="center">
   <img src="Images/Screenshot 2026-09-21 201109.png" width="400">
+</p>
+
+<p align="center">
   <img src="Images/Screenshot 2026-09-21 205614.png" width="400">
+</p>
+
+<p align="center">
   <img src="Images/Screenshot 2026-09-22 085105.png" width="400">
 </p>
 

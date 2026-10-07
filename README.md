@@ -89,7 +89,7 @@ The derivation relates the desired ankle orientation `(θ, φ)` to the correspon
 
 The complete hand-derived mathematical analysis is provided in:
 
-**[Inverse Kinematics Derivation](Kinematics/Inverse_Kinematics_Derivation.pdf)**
+**[Inverse Kinematics Derivation](Kinematics/2_DOF_Ankle_Inverse_Kinematics.pdf)**
 
 ## Engineering Concepts
 

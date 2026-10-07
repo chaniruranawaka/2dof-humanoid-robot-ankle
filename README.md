@@ -64,19 +64,15 @@ The complete ankle mechanism was designed and assembled in CAD, including the in
 ### Final Assembly
 
 <p align="center">
-  <img src="Images/assembly_isometric.png" width="700">
+  <img src="Images/Images/Screenshot 2026-09-21 201430.png" width="700">
 </p>
 
 ### Additional Views
 
 <p align="center">
-  <img src="Images/assembly_front.png" width="400">
-  <img src="Images/assembly_side.png" width="400">
-</p>
-
-<p align="center">
-  <img src="Images/assembly_rear.png" width="400">
-  <img src="Images/assembly_top.png" width="400">
+  <img src="Images/Screenshot 2026-09-21 201109.png" width="400">
+  <img src="Images/Screenshot 2026-09-21 205614.png" width="400">
+  <img src="Images/Screenshot 2026-09-22 085105.png" width="400">
 </p>
 
 ## Kinematic Analysis
